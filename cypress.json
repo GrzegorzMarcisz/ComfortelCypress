@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://192.168.1.21:7580",
+  "baseUrl77": "http://192.168.1.21:7780",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 20000,
+  "env": {
+    "heimdallUrl": "http://192.168.1.21:7500",
+    "entryPoint": "http://192.168.1.21:7580",
+    "tempparam" : "",
+    "customerUID": ""
+  },
+  "env77": {
+    "heimdallUrl": "http://192.168.1.21:7500",
+    "entryPoint": "http://192.168.1.21:7780"
+  },
+  "projectId": "2h6t2d"
+}
