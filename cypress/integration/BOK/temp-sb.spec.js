@@ -8,7 +8,7 @@ describe("Testy liczby klientów na podstawie podsumowania filtrowanej listy kli
     
     // ================================== Zmienne w celu personalizacji testu ======================================
     // Wprowadź aktualną liczbę klientów obecną w systemie
-    // customerListPage.checkCustomerQuantity(liczba indywidualnych, liczba biznesowych);
+    // customerListPage.checkCustomerQuantity(liczba klientów indywidualnych, liczba klientów biznesowych);
 
     const bokHomePage = new BOK_HOME_PAGE;
     const navigationPage = new NAVIGATION;
